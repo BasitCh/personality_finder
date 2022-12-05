@@ -1,0 +1,14 @@
+{
+    "message": "success",
+    "statusCode": 200,
+    "data": {
+        "data": {
+            "title": "this is the first title"
+        }
+    },
+    "error": {
+        "message": "success",
+        "statusCode": 200,
+        "errorCode": 200
+    }
+}

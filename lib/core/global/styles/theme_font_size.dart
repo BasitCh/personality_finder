@@ -1,0 +1,7 @@
+const TEXT_REGULAR_XSMALL = 10.0;
+const TEXT_REGULAR_SMALL = 14.0;
+const TEXT_REGULAR = 14.0;
+const TEXT_REGULAR_2X = 16.0;
+const TEXT_REGULAR_3X = 20.0;
+const TEXT_HEADING_1X = 24.0;
+const TEXT_BIG = 32.0;
